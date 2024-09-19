@@ -1,1 +1,1 @@
-kubectl apply -f pod-removal-experiment.yaml && kubectl get Schedule -n chaos-mesh
+kubectl apply -f pod-removal-experiment.yaml && kubectl get Schedule -n chaos-testing
